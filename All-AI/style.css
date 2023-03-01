@@ -1,0 +1,46 @@
+/* style.css */
+
+/* ページ全体のスタイル */
+body {
+  font-family: sans-serif;
+  line-height: 1.5;
+}
+
+/* ヘッダーのスタイル */
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 1rem;
+}
+
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+nav li {
+  display: inline-block;
+  margin-right: 1rem;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+}
+
+/* メインセクションのスタイル */
+main section {
+  margin: 2rem 0;
+}
+
+main h1, main h2 {
+  margin-bottom: 1rem;
+}
+
+/* フッターのスタイル */
+footer {
+  background-color: #ccc;
+  padding: 1rem;
+  text-align: center;
+}
